@@ -9,3 +9,10 @@ ruby-rails   | Ruby 2.2.0 | Rails
 phoenix      | Elixir     | Phoenix
 
 ## Metrics
+
+
+## Authors
+
+[Daniel Martinez](https://github.com/edmt)
+
+[Uriel Molina](https://github.com/urielable)
