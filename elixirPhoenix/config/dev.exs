@@ -31,4 +31,5 @@ config :elixirPhoenix, ElixirPhoenix.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
   password: "postgres",
-  database: "elixirPhoenix_dev"
+  database: "elixirphoenix_dev",
+  hostname: "127.0.0.1"
