@@ -7,6 +7,8 @@ defmodule ElixirPhoenix.Repo.Migrations.CreateBook do
       add :description, :string
       add :title      , :string
       add :author     , :string
+
+      timestamps
     end
   end
 end
